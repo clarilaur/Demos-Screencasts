@@ -1,0 +1,21 @@
+AWS Cloud Practitioner (CLF-C02) — Study Experience & Approach
+
+Link: https://youtu.be/wrSicVbmUgo
+
+A personal account of how I prepared for and passed the AWS Certified Cloud Practitioner exam, including the learning methods that worked for me and a video walkthrough of key concepts.
+
+Video walkthrough
+I recorded a breakdown of the material and my study approach:
+Watch on YouTube
+Covers: how I structured my studying, the concepts I found most important, and how I'd explain AWS cloud fundamentals to someone starting from scratch.
+
+My study approach
+Time invested: ~45 hours over [3 weeks]
+What I actually did:
+
+Handwritten notes on every domain — writing by hand forced me to process the material instead of just reading it
+Built mental models for abstract concepts (shared responsibility, global infrastructure, pricing) before memorizing details
+Focused on why each service exists, not just what it does
+
+What clicked for me:
+The exam is less about remembering service names and more about understanding when you'd choose one thing over another. Knowing that Lambda is for short-lived event-driven tasks versus EC2 for persistent workloads matters more than recalling specific limits.
